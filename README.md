@@ -1,4 +1,5 @@
-superstore-sales-dashboard
+superstore-sales-dashboard 
+
 An interactive sales analytics dashboard that visualizes business performance from the SuperStore dataset — built to track revenue, profit, and regional trends at a glance.
 
 Overview
